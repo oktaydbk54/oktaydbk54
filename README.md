@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working **as Data Scientist**
 
-- 👨‍💻 All of my projects are available at [https://bekchilab.net/](https://bekchilab.net/)
-
 - 📝 I regularly write articles on [https://medium.com/@borandabak](https://medium.com/@borandabak)
 
 - 📫 How to reach me **oktaydabak54@gmail.com**
